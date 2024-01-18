@@ -1,6 +1,7 @@
-# My Work Experience at K-Market
+# Welcome, My name is Kasperi.
 
-Hello there! 👋 I'm [Your Name], a second-year vocational school student with a passion for programming. Currently, I work at K-Market, gaining valuable experience in the retail industry.
+Hello there! 👋 I'm Kasperi, a second-year vocational school student who is currently studying programming.
+I study at Gradia Viitaniemi vocational school.
 
 ## About Me
 
@@ -15,9 +16,9 @@ My strongest language is C#. I have most experience with it.
 
 
 ## My Projects
-https://github.com/Kasperi17/Matikkapeli
+https://github.com/Kasperi17/Lopputyö
 ### 
 
-Brief description of the project and its purpose.
 
 
+## How to Reach Me
